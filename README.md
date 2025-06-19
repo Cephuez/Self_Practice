@@ -1,4 +1,3 @@
-Normally I wouldn't add this, but since I'm constantly practicing, I plan on pushing any code changes I've made in my own personal practice area.
+Normally I wouldn't add this, but since I'm constantly practicing, I plan on pushing my practicing code.
 
-This is to demonstrate that I'm practicing my skills when not working on my projects. 
-I first practice before modifying my existing files.
+This is to demonstrate that I'm practicing my skills before applying them to my projects
